@@ -1,4 +1,14 @@
-.makingfood {
+.Soup { 
+    display:block;
+    position: relative;
+    right: 0px;
+    top: 110px;
+
+    /* position: relative; /* Needed for offsetting */
+    /* left: 1px; /* Horizontal offset */
+    /* top: 100px;  */ 
+}
+   .makingfood {
     width: 960px; 
     height: 58px; 
     color: #69A449; 
@@ -25,6 +35,10 @@
     top: 120px; 
 }
 
+<<<<<<< HEAD
+.Making_Food_More_Accessible {
+    display: flex;
+=======
 .currentissues {
     width: 746.48px; 
     height: 58.17px; 
@@ -91,4 +105,5 @@
     position: relative; /* Needed for offsetting */
     left: 1000px; /* Horizontal offset */
     top: -16px;
+>>>>>>> a7d4c8c46824788a53f9930b939050bb6fd161e5
 }
