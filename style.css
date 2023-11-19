@@ -35,6 +35,75 @@
     top: 120px; 
 }
 
+<<<<<<< HEAD
 .Making_Food_More_Accessible {
     display: flex;
+=======
+.currentissues {
+    width: 746.48px; 
+    height: 58.17px; 
+    text-align: center; 
+    color: #FB7D00; 
+    font-size: 48px; 
+    font-family: Gill Sans; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    text-align: center;
+    position: relative; /* Needed for offsetting */
+    left: 450px; /* Horizontal offset */
+    top: 200px
+}
+
+.problem1{
+    width: 235px;
+    height: 80px; 
+    text-align: center; 
+    color: black; 
+    font-size: 25px; 
+    font-family: Gill Sans; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    text-align: center;
+    background: #F1B72C; 
+    border-radius: 20px;
+    padding-top: 40px;
+    position: relative; /* Needed for offsetting */
+    left: 400px; /* Horizontal offset */
+    top: 225px; 
+}
+.problem2{
+    width: 235px;
+    height: 90px; 
+    text-align: center; 
+    color: black; 
+    font-size: 25px; 
+    font-family: Gill Sans; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    text-align: center;
+    background: #F1B72C; 
+    border-radius: 20px;
+    padding-top: 30px;
+    position: relative; /* Needed for offsetting */
+    left: 700px; /* Horizontal offset */
+    top: 105px;
+}
+
+.problem3{
+    width: 235px;
+    height: 87px; 
+    text-align: center; 
+    color: black; 
+    font-size: 25px; 
+    font-family: Gill Sans; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    text-align: center;
+    background: #F1B72C; 
+    border-radius: 20px;
+    padding-top: 30px;
+    position: relative; /* Needed for offsetting */
+    left: 1000px; /* Horizontal offset */
+    top: -16px;
+>>>>>>> a7d4c8c46824788a53f9930b939050bb6fd161e5
 }
