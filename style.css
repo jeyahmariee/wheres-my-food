@@ -25,7 +25,7 @@ body {
 	text-indent: 10px;
 }
 
-.container {
+.container_1 {
 	justify-content: flex-end;
 	display: flex;
 }
@@ -47,7 +47,6 @@ body {
     height: 58px; 
     color: #69A449; 
     font-size: 50px; 
-    font-family: 'Gill Sans', sans-serif; /* Ensure proper font family syntax */
     font-weight: 400;
     word-wrap: break-word;
     text-align: right;
@@ -55,16 +54,43 @@ body {
     left: 1px; /* Horizontal offset */
     top: 110px; 
 }
+
 .morsel {
     width: 696.09px;
     height: 59.29px;
     color: black;
     font-size: 20px;
-    font-family: 'Gill Sans', sans-serif; /* Ensure proper font family syntax */
     font-weight: 400;
     word-wrap: break-word;
     text-align: right;
     position: relative; /* Needed for offsetting */
     left: -35px; /* Horizontal offset */
     top: 120px; 
+}
+
+.oursolution {
+    width: 960px; 
+    height: 58px; 
+    color: #E57679; 
+    font-size: 50px; 
+    font-weight: 400;
+    word-wrap: break-word;
+    text-align: left;
+    position: relative; /* Needed for offsetting */
+    left: 365px; /* Horizontal offset */
+    top: 200px; 
+}
+
+.oursolutionexplained {
+    width: 900px;
+    height: 91px;
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    word-wrap: break-word;
+    text-align: left;
+    position: relative; /* Needed for offsetting */
+    left: 370px; /* Horizontal offset */
+    top: 210px; 
+	background: #F5C1B6;
 }
