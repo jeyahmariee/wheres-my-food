@@ -34,3 +34,7 @@
     left: -35px; /* Horizontal offset */
     top: 120px; 
 }
+
+.Making_Food_More_Accessible {
+    display: flex;
+}
