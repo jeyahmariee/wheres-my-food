@@ -1,0 +1,9 @@
+.Soup { 
+    display:block;
+    margin:0 auto;
+
+    /* position: relative; /* Needed for offsetting */
+    /* left: 1px; /* Horizontal offset */
+    /* top: 100px;  */ 
+}
+   
