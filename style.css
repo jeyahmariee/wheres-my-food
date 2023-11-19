@@ -1,9 +1,36 @@
 .Soup { 
     display:block;
-    margin:0 auto;
+    position: relative;
+    right: 0px;
+    top: 110px;
 
     /* position: relative; /* Needed for offsetting */
     /* left: 1px; /* Horizontal offset */
     /* top: 100px;  */ 
 }
-   
+   .makingfood {
+    width: 960px; 
+    height: 58px; 
+    color: #69A449; 
+    font-size: 50px; 
+    font-family: 'Gill Sans', sans-serif; /* Ensure proper font family syntax */
+    font-weight: 400;
+    word-wrap: break-word;
+    text-align: right;
+    position: relative; /* Needed for offsetting */
+    left: 1px; /* Horizontal offset */
+    top: 110px; 
+}
+.morsel {
+    width: 696.09px;
+    height: 59.29px;
+    color: black;
+    font-size: 20px;
+    font-family: 'Gill Sans', sans-serif; /* Ensure proper font family syntax */
+    font-weight: 400;
+    word-wrap: break-word;
+    text-align: right;
+    position: relative; /* Needed for offsetting */
+    left: -35px; /* Horizontal offset */
+    top: 120px; 
+}
